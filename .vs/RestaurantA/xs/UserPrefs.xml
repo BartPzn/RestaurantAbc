@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{96139706-C0F3-4CEC-9F16-2B48008A61B7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RestaurantA PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/RestaurantDbContext.cs">
+    <Files>
+      <File FileName="RestaurantSeeder.cs" Line="35" Column="56" />
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="WeatherForecast.cs" Line="10" Column="1" />
+      <File FileName="Entities/RestaurantDbContext.cs" Line="26" Column="1" />
+      <File FileName="Program.cs" Line="31" Column="3" />
+      <File FileName="Migrations/20221007185337_Ini.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RestaurantA" expanded="True">
+            <Node name="RestaurantA" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True">
+                <Node name="RestaurantDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
